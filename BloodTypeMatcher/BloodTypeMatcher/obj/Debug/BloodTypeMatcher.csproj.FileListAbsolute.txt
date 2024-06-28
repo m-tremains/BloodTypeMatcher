@@ -1,0 +1,7 @@
+C:\Users\Matt\Source\Repos\BloodTypeMatcher\BloodTypeMatcher\bin\Debug\BloodTypeMatcher.exe.config
+C:\Users\Matt\Source\Repos\BloodTypeMatcher\BloodTypeMatcher\bin\Debug\BloodTypeMatcher.exe
+C:\Users\Matt\Source\Repos\BloodTypeMatcher\BloodTypeMatcher\bin\Debug\BloodTypeMatcher.pdb
+C:\Users\Matt\Source\Repos\BloodTypeMatcher\BloodTypeMatcher\obj\Debug\BloodTypeMatcher.csproj.AssemblyReference.cache
+C:\Users\Matt\Source\Repos\BloodTypeMatcher\BloodTypeMatcher\obj\Debug\BloodTypeMatcher.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Source\Repos\BloodTypeMatcher\BloodTypeMatcher\obj\Debug\BloodTypeMatcher.exe
+C:\Users\Matt\Source\Repos\BloodTypeMatcher\BloodTypeMatcher\obj\Debug\BloodTypeMatcher.pdb
